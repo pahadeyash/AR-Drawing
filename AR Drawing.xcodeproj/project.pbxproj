@@ -273,10 +273,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = VSKQF4Y8J8;
+				DEVELOPMENT_TEAM = Z8G7Y88VPR;
 				INFOPLIST_FILE = "AR Drawing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Drawing";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yashpahade.World-Tracking";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -287,10 +287,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = VSKQF4Y8J8;
+				DEVELOPMENT_TEAM = Z8G7Y88VPR;
 				INFOPLIST_FILE = "AR Drawing/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "Reveal-Inc.AR-Drawing";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yashpahade.World-Tracking";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -316,6 +316,7 @@
 				0B2ADD111F34445200EA18F1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

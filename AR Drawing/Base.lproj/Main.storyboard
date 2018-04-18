@@ -27,7 +27,7 @@
                                     <constraint firstAttribute="width" constant="65" id="UIB-gi-X6A"/>
                                     <constraint firstAttribute="height" constant="45" id="rlb-aA-Vdc"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="draw"/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -43,6 +43,7 @@
                     </view>
                     <connections>
                         <outlet property="SceneView" destination="4LQ-ve-Vsw" id="dM0-5e-9bT"/>
+                        <outlet property="draw" destination="mtM-Ed-8W0" id="3mr-Ju-Oh7"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
